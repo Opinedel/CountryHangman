@@ -21,3 +21,4 @@ A simple, unlimited, and randomised game of hangman featuring countries
             <li>The two Koreas are written as <b>NORTH KOREA</b> and <b>SOUTH KOREA</b>.</li>
             <li>In countries having more than one word, two words are seperated by a '/', even if they have a hyphen(-) in the original name.</li>
         </ul>
+<p>Play it <a href="https://opinedel.github.io/countryhangman/">here</a>.</p>
