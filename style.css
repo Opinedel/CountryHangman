@@ -1,0 +1,58 @@
+button{
+background-color: #ffcfcf;
+border: none;
+width: 17vmax;
+height: 5vh;
+color: #000000; 
+font-size: 18px; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;           
+
+}
+button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+p{
+    font-size: 36px;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.howToPlayBtn{
+    width: 5vmax;
+    height: 5vh;
+    background-color: #dbcdcd;
+}
+.howToPlayBtn:hover{
+    background-color: #000000;
+}
+#howToPlay{
+    background-color: #ffffff;
+    width: 90vmax;
+    height: 100vh;
+    display: none;
+}
+#game{
+    display: block;
+}
+#nav{
+    display: block;
+}
+#htpnav{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#htpCloseBtn{
+    width: 5vmax;
+    height: 5vh;
+    background-color: #dbcdcd;
+}
+#htpCloseBtn:hover{
+    background-color: #000000;
+}
+li{
+    font-size: 20px;
+}
